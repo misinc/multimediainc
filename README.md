@@ -1,1 +1,1 @@
-READ ME
+Setup a Netlify account to redirect any links to multimediainc.com (including https links) to misinc.com specifically links on the iranian.com archive pages.
